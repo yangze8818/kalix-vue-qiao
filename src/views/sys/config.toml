@@ -1,0 +1,9 @@
+# QIAO項目配置文件
+# 广告管理
+QiaoAdvertisingURL = "/camel/rest/qiao/advertisings"
+# 友情链接
+QiaoBlogrollURL = "/camel/rest/qiao/blogrolls"
+# 数据字典
+QiaoDictionariesURL = "/camel/rest/qiao/dictionaries"
+# 公司信息
+QiaoInformationURL = "/camel/rest/qiao/informations"
