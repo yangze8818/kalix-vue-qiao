@@ -1,10 +1,10 @@
 <template lang="pug">
-  div advertising
+  div district
 </template>
 
 <script type="text/ecmascript-6">
   export default {
-    name: "kalix-qiao-advertising"
+    name: "kalix-qiao-district"
   }
 </script>
 

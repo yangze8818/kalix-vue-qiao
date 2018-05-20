@@ -1,8 +1,12 @@
 # QIAO項目配置文件
 # 栏目管理
-QiaoColumnURL = "/camel/rest/qiao/columns"
+QiaoColumnURL = "/camel/rest/columns"
 # 内容管理
-QiaoContentURL = "/camel/rest/qiao/contents"
+QiaoContentURL = "/camel/rest/contents"
 # 菜单管理
-QiaoMenuURL = "/camel/rest/qiao/menus"
+QiaoMenuURL = "/camel/rest/menus"
+# 留言管理
+QiaoForumURL = "/camel/rest/forums"
+# 回复管理
+QiaoReplyURL = "/camel/rest/replys"
 

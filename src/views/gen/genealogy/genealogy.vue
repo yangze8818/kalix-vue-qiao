@@ -1,10 +1,10 @@
 <template lang="pug">
-  div dictionaries
+  div genealogy
 </template>
 
 <script type="text/ecmascript-6">
   export default {
-    name: "kalix-qiao-dictionaries"
+    name: "kalix-qiao-genealogy"
   }
 </script>
 
